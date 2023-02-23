@@ -1,0 +1,139 @@
+{
+  "Header": {
+    "title": "Pimpri Serological Institute Blood Center",
+    "paragraph": "Donate blood and be the reason for someone’s existence."
+  },
+  "About": {
+    "paragraph": "Our blood bank is committed to protecting the safety of both donors and potential recipients by providing quality blood and blood products from non-remunerated, healthy donors following a stringent screening process. Voluntary blood donation, being the safest form of blood donation, is encouraged. The blood bank provides for the blood requirements of patients within the hospital as well as various other hospitals and nursing homes in the city. The blood bank is licensed to prepare Whole Blood, Packed Red blood Cells, Platelet concentrate, Fresh Frozen plasma, Cryoprecipitate, Single donor platelets (platelets prepared by pheresis), Plasma pheresis and leucodepleted blood.",
+    "Why": [
+      "Govt. Registered",
+      "Not for Profit Organisation",
+      "Use of Latest Technology",
+      "Hygiene First Approach"
+    ],
+    "Why2": [
+      "Nationwide Network",
+      "Medical Equipments Supply",
+      "CSR Blood Donation",
+      "Different Initiatives Run"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Emcure Drive With SIT Students",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Blood Donation Van",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Super Donor Team",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-medkit",
+      "name": "Medical Equipments",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-h-square",
+      "name": "Hospital Database",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Donor Database Collection",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-user-md",
+      "name": "In House Doctors",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-ambulance",
+      "name": "Speedy Delivery",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Outstanding Results",
+      "text": ""
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Hindustan Petroleum is proud to be associated with PSIBC blood bank for this CSR activities. The blood donation camp was well co ordinated efforts and quite a successful initiative.\"",
+      "name": "(HP) Jagan Dongre"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"It was really a happy day for all Genpact employees.Thank You for the opportunity with collection of 150 packets of blood.There were overwhelming reactions observed!\"",
+      "name": "(Genpact) Mohini Ali"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"I am a regular donor and have donated in numerous camps. But donating with PISBC Blood bank, has always been a pleasent experience. You guys are saving lives, I feel proud and empowered every time I donate.\"",
+      "name": "(Donor) Makranda Desai"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Prasad Deshmukh",
+      "job": "Chairman"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Devendra Lahari",
+      "job": "Director Logistics"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Kaivalya Jagtap",
+      "job": "Outreach Head"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Rashmika Anandani",
+      "job": "People Operations Leader"
+    }
+  ],
+  "Contact": {
+    "address": "Esteem Tower, 4th Floor,Kharlwadi,near Surya Hotel, Old Mumbai - Pune Hwy, opposite Ksb Pump, Pimpri Colony, Pimpri-Chinchwad, Maharashtra 411018 ",
+    "phone": "098226 56541",
+    "email": "help@psibc.com",
+    "facebook": "https://www.facebook.com/people/Pimpri-Serological-Intitute-Blood-Center/100066237145041/",
+    "twitter": "#",
+    "youtube": "#"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Institutional Review Board",
+      "text": "Responsive and innovative solutions to meet unique requirements for research, commercial, and educational use."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "(HPC) Products",
+      "text": "(HPC) products and transplant support. Order response turnaround that is sensitive to time-critical needs."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Clinical trial programs",
+      "text": "Clinical trial programs in partnership with educational and research organizations, biotechnology and medical device companies."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Professional education",
+      "text": "Professional education, consultation, and in-service programs for hospital staff, including transfusion committee support"
+    }
+  ]
+}
